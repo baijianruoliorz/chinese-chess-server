@@ -1,5 +1,8 @@
 package io.github.yxr1024.chinesechess.chat;
 
+import lombok.Data;
+
+
 public enum ChannelType {
     /**
      * 公开
